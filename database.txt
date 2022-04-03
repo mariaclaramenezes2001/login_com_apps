@@ -1,0 +1,5 @@
+clara,newnew
+bibi,small
+joana,fat
+pedro,tall
+luis,safe
